@@ -1,8 +1,8 @@
 ## Rafael Francisco Perez
 
-You can use the [editor on GitHub](https://github.com/IamRafaelllll/IamRafaelllll.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+My name is **Rafael Francisco Perez** and I am a rising senior at Lowell High School. I have taken **Mr.Chan's** AP Computer Science A class, where I learned Java. I have also learned a variety of other coding languages, such as **Python**, **JavaScript**, **C#**, and **Unity Game Design**, through a organization called [**MissionBit**](https://www.missionbit.org/). I am also part of MissionBit's **Student Advisory Board**, where I work with a team of other MissionBit students and collaborate to strengthen the MissionBit program.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
