@@ -30,8 +30,8 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Projects
 
-# [Scales](https://iamrafaelllll.github.io/Scales/)
-# [Lightning]()
+### [Scales](https://iamrafaelllll.github.io/Scales/)
+### [Lightning]()
 # [Dice]()
 [Chemotaxis]()
 [Starfield]()
