@@ -41,7 +41,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 - [2D Sierpinski Triangle](https://iamrafaelllll.github.io/2DSierpinskiTriangle/)
 - [2D Sierpinski Cube](https://iamrafaelllll.github.io/2DSierpinskiCarpet/)
 - [Original Fractal](https://iamrafaelllll.github.io/OriginalFractal/)
-- [Tendron](https://iamrafaelllll.github.io/Fractal/)
+- [Tendron](https://iamrafaelllll.github.io/Tendron/)
 - [Minesweeper](https://iamrafaelllll.github.io/Minesweeper/)
 - [Game Of Life](https://iamrafaelllll.github.io/GameOfLife/)
 - [Pong](https://iamrafaelllll.github.io/MissionBitJavaWorkshopPong/)
