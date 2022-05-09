@@ -34,6 +34,6 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Contact Information
 
-Email : rafael@missionbit.org
-Phone : (415) 535-6278
-Instagram : iamrafaelllll
+# Email : rafael@missionbit.org
+## Phone : (415) 535-6278
+### Instagram : iamrafaelllll
