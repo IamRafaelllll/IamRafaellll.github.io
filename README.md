@@ -38,13 +38,13 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 - [Asteroids](https://iamrafaelllll.github.io/AsteroidsGame/)
 - [3D Sierpinski Triangle](https://iamrafaelllll.github.io/3DSierpinskiPyramid/)
 - [3D Sierpinski Cube](https://iamrafaelllll.github.io/3DSierpinskiCube/)
-- [2D Sierpinski Triangle](https://iamrafaelllll.github.io/2DSierpinskiPyramid/)
+- [2D Sierpinski Triangle](https://iamrafaelllll.github.io/2DSierpinskiTriangle/)
 - [2D Sierpinski Cube](https://iamrafaelllll.github.io/2DSierpinskiCarpet/)
-- [Original Fractal]()
-- [Tendron]()
-- [Minesweeper]()
-- [Game Of Life]()
-- [Pong]()
+- [Original Fractal](https://iamrafaelllll.github.io/OriginalFractal/)
+- [Tendron](https://iamrafaelllll.github.io/Fractal/)
+- [Minesweeper](https://iamrafaelllll.github.io/Minesweeper/)
+- [Game Of Life](https://iamrafaelllll.github.io/GameOfLife/)
+- [Pong](https://iamrafaelllll.github.io/MissionBitJavaWorkshopPong/)
 ### Contact Information
 
  - Email : rafael@missionbit.org
