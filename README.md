@@ -30,21 +30,21 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Projects
 
-[Scales](https://iamrafaelllll.github.io/Scales/)
-[Lightning]()
-[Dice]()
-[Chemotaxis]()
-[Starfield]()
-[Asteroids]()
-[3D Sierpinski Triangle]()
-[3D Sierpinski Cube]()
-[2D Sierpinski Triangle]()
-[2D Sierpinski Cube]()
-[Original Fractal]()
-[Tendron]()
-[Minesweeper]()
-[Game Of Life]()
-[Pong]()
+#[Scales](https://iamrafaelllll.github.io/Scales/)
+#[Lightning]()
+#[Dice]()
+#[Chemotaxis]()
+#[Starfield]()
+#[Asteroids]()
+#[3D Sierpinski Triangle]()
+#[3D Sierpinski Cube]()
+#[2D Sierpinski Triangle]()
+#[2D Sierpinski Cube]()
+#[Original Fractal]()
+#[Tendron]()
+#[Minesweeper]()
+#[Game Of Life]()
+#[Pong]()
 ### Contact Information
 
  - Email : rafael@missionbit.org
