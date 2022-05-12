@@ -29,7 +29,7 @@ Syntax highlighted code block
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Projects
-
+```
 - [Scales](https://iamrafaelllll.github.io/Scales/)
 - [Lightning](https://iamrafaelllll.github.io/Lightning/)
 - [Dice](https://iamrafaelllll.github.io/Dice/)
@@ -45,6 +45,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 - [Minesweeper](https://iamrafaelllll.github.io/Minesweeper/)
 - [Game Of Life](https://iamrafaelllll.github.io/GameOfLife/)
 - [Pong](https://iamrafaelllll.github.io/MissionBitJavaWorkshopPong/)
+```
 ### Contact Information
 
  - Email : rafael@missionbit.org
