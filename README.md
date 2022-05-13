@@ -5,7 +5,7 @@ My name is **Rafael Francisco Perez** and I am a rising senior at Lowell High Sc
 
 
 ### Projects
-```
+
 - [Scales](https://iamrafaelllll.github.io/Scales/)
 - [Lightning](https://iamrafaelllll.github.io/Lightning/)
 - [Dice](https://iamrafaelllll.github.io/Dice/)
@@ -27,3 +27,4 @@ My name is **Rafael Francisco Perez** and I am a rising senior at Lowell High Sc
  - Email : rafael@missionbit.org
  - Phone : (415) 535-6278
  - Instagram : iamrafaelllll
+```
