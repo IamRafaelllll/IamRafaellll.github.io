@@ -21,13 +21,10 @@ My name is **Rafael Francisco Perez** and I am a rising senior at Lowell High Sc
 - [Minesweeper](https://iamrafaelllll.github.io/Minesweeper/)
 - [Game Of Life](https://iamrafaelllll.github.io/GameOfLife/)
 - [Pong](https://iamrafaelllll.github.io/MissionBitJavaWorkshopPong/)
-```
+
 ### Contact Information!
-![D5LcYNOUYAAoxpB](https://user-images.githubusercontent.com/78942623/168319900-45a365b6-09da-4369-96a7-ec30355d331c.jpg)
-
-
 
  - Email : rafael@missionbit.org
  - Phone : (415) 535-6278
  - Instagram : iamrafaelllll
-```
+
