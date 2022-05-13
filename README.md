@@ -23,7 +23,8 @@ My name is **Rafael Francisco Perez** and I am a rising senior at Lowell High Sc
 - [Pong](https://iamrafaelllll.github.io/MissionBitJavaWorkshopPong/)
 ```
 ### Contact Information!
-[D5LcYNOUYAAoxpB](https://user-images.githubusercontent.com/78942623/168319637-37f638b3-0ac8-4f37-a3ff-ebbb3b8147c0.jpg)
+![D5LcYNOUYAAoxpB](https://user-images.githubusercontent.com/78942623/168319900-45a365b6-09da-4369-96a7-ec30355d331c.jpg)
+
 
 
  - Email : rafael@missionbit.org
