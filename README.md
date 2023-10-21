@@ -1,6 +1,6 @@
 ## Rafael Francisco Perez
 
-My name is **Rafael Francisco Perez** and I am a rising senior at Lowell High School. I have taken **Mr. Chan's** AP Computer Science A class, where I learned Java. I have also learned a variety of other coding languages, such as **Python**, **JavaScript**, **C#**, and **Unity Game Design**, through a organization called [**MissionBit**](https://www.missionbit.org/). I am also part of MissionBit's **Student Advisory Board**, where I work with a team of other MissionBit students and collaborate to strengthen the MissionBit program.
+My name is **Rafael Francisco Perez** and I am a First Year Undergraduate at the University of California, Irvine. I am Undeclared but I am going to major in Informatics. I have taken **Mr. Chan's** AP Computer Science A class, where I learned Java. I have also learned a variety of other coding languages, such as **Python**, **JavaScript**, **C#**, and **Unity Game Design**, through a organization called [**MissionBit**](https://www.missionbit.org/). I was also part of MissionBit's **Student Advisory Board**, where I work with a team of other MissionBit students and collaborate to strengthen the MissionBit program.
 
 
 
